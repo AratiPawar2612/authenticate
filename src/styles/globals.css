@@ -1,0 +1,17 @@
+body{
+  background-color: teal;
+  color: aliceblue;
+ 
+}
+
+main{
+  margin-top: 10%;
+  margin-left: 40%;
+}
+.logo{
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  margin-left: 20px;
+  overflow: hidden;
+}
